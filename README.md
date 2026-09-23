@@ -8,3 +8,10 @@ Hello! I’m Rihan, an AI and Data Science student interested in programming, da
 - Data Analysis
 - Data Visualization
 - Git and GitHub
+
+## Interests
+
+- Artificial Intelligence
+- Data Science
+- Software Development
+- Problem Solving
