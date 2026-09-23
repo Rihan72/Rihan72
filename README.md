@@ -1,3 +1,10 @@
 ## Hi there 👋
 Hello! I’m Rihan, an AI and Data Science student interested in programming, data analysis, artificial intelligence, and software development. I enjoy building practical projects, learning new technologies, and improving my technical skills through hands-on work. This repository contains my learning work, experiments, and projects as I continue developing my skills in the field of technology.
 
+## Skills
+
+- Python
+- C
+- Data Analysis
+- Data Visualization
+- Git and GitHub
