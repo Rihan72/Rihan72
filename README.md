@@ -15,3 +15,7 @@ Hello! I’m Rihan, an AI and Data Science student interested in programming, da
 - Data Science
 - Software Development
 - Problem Solving
+
+## Goals
+
+Build practical projects, strengthen programming skills, and develop expertise in AI and data science.
