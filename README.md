@@ -19,3 +19,11 @@ Hello! I’m Rihan, an AI and Data Science student interested in programming, da
 ## Goals
 
 Build practical projects, strengthen programming skills, and develop expertise in AI and data science.
+
+## Projects
+
+### 2D Graphics Editor
+A menu-driven C project for creating and editing basic 2D graphics.
+
+### IoT Food Quality Detector
+An IoT-based project using sensors to detect food spoilage and display the result.
